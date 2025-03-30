@@ -1,0 +1,1 @@
+console.log("Estou no dia 2, tendo meu primeiro contato com GIT!")
